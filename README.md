@@ -27,3 +27,5 @@ Vá até o diretório indicado ou então copie o caminho até "admin" e cole no 
         C:\app\Hellen\product\11.2.0\dbhome_1\network\admin\
 
 ![exp](https://github.com/Hellemos/localiza-tnsnames.ora/blob/main/exp.png)
+
+Prontinho!! :blush: Agora é só abrir o arquivo em qualquer editor de texto, eu utilizei o Sublime Text, e fazer as edições de acordo com os seus parâmetros de conexão.
