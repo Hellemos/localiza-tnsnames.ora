@@ -1,0 +1,1 @@
+# localiza-tnsnames.ora
