@@ -9,3 +9,5 @@
 Acesse o prompt de comando do seu sistema operacional teclando windows + R e digite cmd, após isso, tecle ENTER: 
 
 ![cmd](https://github.com/Hellemos/localiza-tnsnames.ora/blob/main/cmd.png)
+
+Com o prompt de comando aberto digite: tnsping nome_da_base
