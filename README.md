@@ -8,4 +8,4 @@
 
 Acesse o prompt de comando do seu sistema operacional teclando windows + R e digite cmd, após isso, tecle ENTER: 
 
-![cmd]()
+![cmd](https://github.com/Hellemos/localiza-tnsnames.ora/blob/main/cmd.png)
