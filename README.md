@@ -22,6 +22,7 @@ O caminho pode mudar de acordo com cada máquina, para o meu caso, o arquivo *tn
 
 ### *C:\app\Hellen\product\11.2.0\dbhome_1\network\admin\sqlnet.ora*
 
+
 Vá até o diretório indicado ou então copie o caminho até "admin" e cole no Explorador de arquivos
 
         C:\app\Hellen\product\11.2.0\dbhome_1\network\admin\
